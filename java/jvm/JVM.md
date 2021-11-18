@@ -11,7 +11,7 @@ JVM이란 자바 프로그램을 실행시켜주는 가상머신으로 다음과
 - Runtime Data Area
   - OS로부터 할당받은 메모리 영역으로 프로그램 실행에 필요한 데이터가 적재된다.
 
-![jvm](/Users/ywj/Documents/study-note/java/jvm/images/jvm.png)
+![jvm](https://github.com/gamzagamza/study-note/blob/master/java/jvm/images/jvm.png?raw=true)
 
 
 
