@@ -10,7 +10,7 @@ Java를 사용해 개발하는 개발자는 이러한 GC덕에 다른 언어(C/C
 
 GC의 대상이 되는 Heap영역은 다음과 같이 구성되어있다.
 
-![heap](/Users/ywj/Documents/study-note/java/gc/images/heap.png)
+![heap](https://github.com/gamzagamza/study-note/blob/master/java/gc/images/heap.png?raw=true)
 
 새롭게 생성되는 객체는 Eden 영역에 생성되어진다.
 
