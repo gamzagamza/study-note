@@ -5,7 +5,8 @@
 
 
 ### Java
-- [JVM](https://github.com/gamzagamza/study-note/blob/master/java/jvm/JVM.md) 
+- [JVM](https://github.com/gamzagamza/study-note/blob/master/java/jvm/JVM.md)
+- [GC](https://github.com/gamzagamza/study-note/blob/master/java/gc/GC.md)
 
 ### Database
 
