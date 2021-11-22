@@ -8,6 +8,7 @@
 - [JVM](https://github.com/gamzagamza/study-note/blob/master/java/jvm/JVM.md)
 - [GC](https://github.com/gamzagamza/study-note/blob/master/java/gc/GC.md)
 - [==, equals()](https://github.com/gamzagamza/study-note/blob/master/java/compare/compare.md)
+- [부동소수점 오차](https://github.com/gamzagamza/study-note/blob/master/java/floating_point/floating_point.md)
 
 ### Database
 
