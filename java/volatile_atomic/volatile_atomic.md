@@ -12,7 +12,7 @@ volatile 키워드는 변수명 앞에 붙일 수 있으며 해당 변수를 사
 
 Thread 1은 첫 번째 CPU에서 동작하고 Thread 2가 두 번째 CPU에서 동작할 때 각각의 CPU cache에 저장된 변수 값이 일치하지 않는 문제가 발생하게 된다.
 
-![스크린샷 2021-11-24 오후 5.31.05](/Users/ywj/Desktop/스크린샷 2021-11-24 오후 5.31.05.png)
+![cpu%20cache](https://github.com/gamzagamza/study-note/blob/master/java/volatile_atomic/images/cpu%20cache.png)
 
 
 
