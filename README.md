@@ -12,7 +12,8 @@
 - [volatile, atomic](https://github.com/gamzagamza/study-note/blob/master/java/volatile_atomic/volatile_atomic.md)
 
 ### Database
-- [격리수준](https://github.com/gamzagamza/study-note/blob/master/db/isolation/isolation.md)
+- [isolation](https://github.com/gamzagamza/study-note/blob/master/db/isolation/isolation.md)
+- [propagation](https://github.com/gamzagamza/study-note/blob/master/db/propagation/propagation.md)
 
 ### OS
 
