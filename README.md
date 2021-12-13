@@ -13,6 +13,7 @@
 - [Runnable, Collable](https://github.com/gamzagamza/study-note/blob/master/java/runnable_collable/runnable_collable.md)
 
 ### Database
+- [transaction](https://github.com/gamzagamza/study-note/blob/master/db/transaction/transaction.md)
 - [isolation](https://github.com/gamzagamza/study-note/blob/master/db/isolation/isolation.md)
 - [propagation](https://github.com/gamzagamza/study-note/blob/master/db/propagation/propagation.md)
 
