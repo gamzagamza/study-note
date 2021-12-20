@@ -18,6 +18,7 @@
 - [propagation](https://github.com/gamzagamza/study-note/blob/master/db/propagation/propagation.md)
 
 ### OS
+- [Deadlock](https://github.com/gamzagamza/study-note/blob/master/os/deadlock/deadlock.md)
 
 ### Network
 
