@@ -13,6 +13,7 @@
 - [Runnable, Collable](https://github.com/gamzagamza/study-note/blob/master/java/runnable_collable/runnable_collable.md)
 
 ### Design Pattern
+- [Adapter Pattern]
 
 ### Database
 - [transaction](https://github.com/gamzagamza/study-note/blob/master/db/transaction/transaction.md)
