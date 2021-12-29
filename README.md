@@ -15,6 +15,7 @@
 ### Design Pattern
 - [Adapter Pattern](https://github.com/gamzagamza/study-note/blob/master/design%20pattern/adapter/adapter.md)
 - [Template Method Pattern](https://github.com/gamzagamza/study-note/blob/master/design%20pattern/template%20method/template%20method.md)
+- [Factory Method Pattern](https://github.com/gamzagamza/study-note/blob/master/design%20pattern/factory%20method/factory%20method.md)
 
 ### Database
 - [transaction](https://github.com/gamzagamza/study-note/blob/master/db/transaction/transaction.md)
