@@ -11,7 +11,6 @@
 - [부동소수점 오차](https://github.com/gamzagamza/study-note/blob/master/java/floating_point/floating_point.md)
 - [volatile, atomic](https://github.com/gamzagamza/study-note/blob/master/java/volatile_atomic/volatile_atomic.md)
 - [Runnable, Collable](https://github.com/gamzagamza/study-note/blob/master/java/runnable_collable/runnable_collable.md)
-- [Reference Object]()
 
 ### Design Pattern
 - [Adapter Pattern](https://github.com/gamzagamza/study-note/blob/master/design%20pattern/adapter/adapter.md)
